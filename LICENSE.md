@@ -1,7 +1,7 @@
 
 The MIT License (MIT)
 
-Copyright (c) 2016 George Luiz
+Copyright (c) 2016 George Luiz Bittencourt
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

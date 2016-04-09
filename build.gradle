@@ -1,0 +1,22 @@
+apply plugin: 'java'
+apply plugin: 'application'
+
+mainClassName = 'com.georgeluiz.robots.Shell'
+
+jar {
+    manifest {
+        attributes 'Main-Class': mainClassName
+    }
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile 'org.testng:testng:6.0.1'
+}
+
+test {
+    useTestNG()
+}
