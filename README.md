@@ -1,6 +1,4 @@
-# Robots
-
-[![Build Status](https://travis-ci.org/glzbcrt/robots.svg?branch=master)](https://travis-ci.org/glzbcrt/robots)
+# Robots &middot; [![Robots license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/glzbcrt/robots/blob/master/LICENSE) [![Build Status](https://travis-ci.org/glzbcrt/robots.svg?branch=master)](https://travis-ci.org/glzbcrt/robots)
 
 Robots is a small application I wrote for an interview in Java. The task was simple, create an application to receive commands from the command line and after these commands were executed print the final position in a plane where the robot moved.
 
